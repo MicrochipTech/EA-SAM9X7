@@ -9,4 +9,4 @@ For more information about the SAM9X75 CPU, or the associated SIPs referenced ab
 
 ## SAM9X7 Series Fine Pitch Package Devices Collaterals
 * Documentation
-  * [SAM9X7 Series Fine Pitch Package Devices Preliminary Product Brief](Fine Pitch/)
+  * [SAM9X7 Series Fine Pitch Package Devices Preliminary Product Brief](FinePitch/)
