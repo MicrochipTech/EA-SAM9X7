@@ -13,5 +13,5 @@ For more information about the SAM9X75 CPU, or the associated SIPs referenced ab
 * Documentation
   * [SAM9X7 Series Fine Pitch Package Devices Preliminary Product Brief](Fine%20Pitch/)
 * IBIS
-  * [SAM9X7 SiP IBIS models](Fine%20Pitch/)
+  * [SAM9X7 Fine Pitch IBIS models](Fine%20Pitch/)
 * Find the other available collaterals on the Microchip SAM9X7 SoC pages
