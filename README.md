@@ -7,7 +7,9 @@ For more information about the SAM9X75 CPU, or the associated SIPs referenced ab
 * https://www.microchip.com/en-us/product/SAM9X75D1G
 * https://www.microchip.com/en-us/product/SAM9X75D2G
 
-## SAM9X7 Series Fine Pitch Package Devices Specific Collaterals
+## SAM9X75 Series Fine Pitch Package Devices Specific Collaterals
 * Documentation
-  * [SAM9X7 Series Fine Pitch Package Devices Preliminary Product Brief](Fine%20Pitch/)
-* Find the other available collaterals on the Microchip SAM9X7 SiP pages
+  * [SAM9X75 Series Fine Pitch Package Devices Preliminary Product Brief](Fine%20Pitch/)
+* IBIS
+  * [SAM9X75 SiP IBIS models](Fine%20Pitch/)
+* Find the other available collaterals on the Microchip SAMA7G54 SiP pages
