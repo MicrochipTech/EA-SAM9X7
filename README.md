@@ -5,7 +5,7 @@ The SAM9X7 Series microprocessors are high-performance and cost-optimized Arm926
 For more information about the SAM9X75 CPU, or the associated SIPs referenced above, please visit the respective product page on Microchip.com.
 * SoC
   * https://www.microchip.com/en-us/product/SAM9X75
-* SiP
+* SiP (1Gb and 2Gb)
   * https://www.microchip.com/en-us/product/SAM9X75D1G
   * https://www.microchip.com/en-us/product/SAM9X75D2G
  
