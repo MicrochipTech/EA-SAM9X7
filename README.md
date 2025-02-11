@@ -19,7 +19,4 @@ For more information about the SAM9X75 CPU, or the associated SIPs referenced ab
 * Find the other available collaterals on the Microchip SAM9X7 SoC pages
 
 ## SAM9X7 SiP Series - 512Mb Specific Collaterals
-* Documentation
-  * [SAM9X7 Series Data Sheet](SiP%20512Mb/)
-  * [SAM9X7 Series Errata Sheet](SiP%20512Mb/)
-* Find the other available collaterals on the Microchip SAM9X7 SiP pages
+* Find the available collaterals (DS, Errata...) on the Microchip SAM9X7 SiP pages
