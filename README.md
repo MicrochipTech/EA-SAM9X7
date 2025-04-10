@@ -4,12 +4,13 @@ The SAM9X7 Series microprocessors are high-performance and cost-optimized Arm926
 
 For more information about the SAM9X75 CPU, or the associated SIPs referenced above, please visit the respective product page on Microchip.com.
 * SoC
-  * https://www.microchip.com/en-us/product/SAM9X75
-* SiP (1Gb and 2Gb)
-  * https://www.microchip.com/en-us/product/SAM9X75D1G
-  * https://www.microchip.com/en-us/product/SAM9X75D2G
+  * [SAM9X75](https://www.microchip.com/en-us/product/SAM9X75): Released to Production (RTP)
+* SiP
+  * SAM9X75D5M: Early Adopter (EA)
+  * [SAM9X75D1G](https://www.microchip.com/en-us/product/SAM9X75D1G): Released to Production (RTP)
+  * [SAM9X75D2G](https://www.microchip.com/en-us/product/SAM9X75D2G): Released to Production (RTP)
  
-## SAM9X7 SoC Series - Fine Pitch Package Devices Specific Collaterals
+## SAM9X75 - SoC Fine Pitch Package Devices Specific Collaterals
 * Documentation
   * [SAM9X7 Series Fine Pitch Package Devices Preliminary Product Brief](Fine%20Pitch/)
 * IBIS
@@ -18,7 +19,7 @@ For more information about the SAM9X75 CPU, or the associated SIPs referenced ab
   * [SAM9X7 Fine Pitch BSDL Files](Fine%20Pitch/)
 * Find the other available collaterals on the Microchip SAM9X7 SoC pages
 
-## SAM9X7 SiP Series - 512Mb Specific Collaterals
-* Find the available collaterals (DS, Errata...) on the Microchip SAM9X7 SiP pages
+## SAM9X7D5M - Sip 512Mb Specific Collaterals
+* Find the available collaterals (DS, Errata...) on the Microchip SAM9X75 SiP pages
   * https://www.microchip.com/en-us/product/SAM9X75D1G
   * https://www.microchip.com/en-us/product/SAM9X75D2G
