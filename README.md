@@ -7,7 +7,7 @@ For more information about the SAM9X75 CPU, or the associated SIPs referenced ab
   * [SAM9X75](https://www.microchip.com/en-us/product/SAM9X75): Released to Production (RTP)
   * SAM9X75 High Density BGA: Early Adopter (EA)
 * SiP
-  * SAM9X75D5M: Early Adopter (EA)
+  * [SAM9X75D5M](https://www.microchip.com/en-us/product/SAM9X75D5M): Released to Production (RTP)
   * [SAM9X75D1G](https://www.microchip.com/en-us/product/SAM9X75D1G): Released to Production (RTP)
   * [SAM9X75D2G](https://www.microchip.com/en-us/product/SAM9X75D2G): Released to Production (RTP)
  
@@ -19,8 +19,3 @@ For more information about the SAM9X75 CPU, or the associated SIPs referenced ab
 * BSDL
   * [SAM9X7 Fine Pitch BSDL Files](Fine%20Pitch/)
 * Find the other available collaterals on the Microchip SAM9X7 SoC pages
-
-## SAM9X7D5M - SiP 512Mb Specific Collaterals
-* Find the available collaterals (DS, Errata...) on the Microchip SAM9X75 SiP pages
-  * https://www.microchip.com/en-us/product/SAM9X75D1G
-  * https://www.microchip.com/en-us/product/SAM9X75D2G
