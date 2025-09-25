@@ -5,17 +5,9 @@ The SAM9X7 Series microprocessors are high-performance and cost-optimized Arm926
 For more information about the SAM9X75 CPU, or the associated SIPs referenced above, please visit the respective product page on Microchip.com.
 * SoC
   * [SAM9X75](https://www.microchip.com/en-us/product/SAM9X75): Released to Production (RTP)
-  * SAM9X75 High Density BGA: Early Adopter (EA)
+  * [SAM9X75 High Density BGA](https://www.microchip.com/en-us/product/SAM9X75): Released to Production (RTP)
 * SiP
   * [SAM9X75D5M](https://www.microchip.com/en-us/product/SAM9X75D5M): Released to Production (RTP)
   * [SAM9X75D1G](https://www.microchip.com/en-us/product/SAM9X75D1G): Released to Production (RTP)
   * [SAM9X75D2G](https://www.microchip.com/en-us/product/SAM9X75D2G): Released to Production (RTP)
  
-## SAM9X75 - SoC High Density BGA Devices Specific Collaterals
-* Documentation
-  * [SAM9X7 Series Fine Pitch Package Devices Preliminary Product Brief](Fine%20Pitch/)
-* IBIS
-  * [SAM9X7 Fine Pitch IBIS Files](Fine%20Pitch/)
-* BSDL
-  * [SAM9X7 Fine Pitch BSDL Files](Fine%20Pitch/)
-* Find the other available collaterals on the Microchip SAM9X7 SoC pages
