@@ -1,8 +1,8 @@
 # SAM9X7 SoC and SiP Series
 ## Early Access Repository
-The SAM9X7 Series microprocessors are high-performance and cost-optimized Arm926EJ-S CPU-based embedded microprocessors (MPU), running up to 800 MHz. The devices integrate powerful peripherals for connectivity and user interface applications, including MIPI DSI, LVDS, RGB and 2D graphics, MIPI-CSI-2, Gigabit Ethernet with TSN and CAN-FD. Advanced security functions are offered, such as tamper detection, secure boot, secure key storage, TRNG, PUF as well as high-performance crypto accelerators for AES and SHA. The SAM9X7 Series is supported by Microchip MPLAB®-X development tools, Harmony, Linux® distributions and the Ensemble Graphics Toolkit.
+The Early Access phase has now concluded.
 
-For more information about the SAM9X75 CPU, or the associated SIPs referenced above, please visit the respective product page on Microchip.com.
+For further information regarding the SAM9X75 CPU or the related SIPs mentioned above, please visit the corresponding product pages on Microchip.com.
 * SoC
   * [SAM9X75](https://www.microchip.com/en-us/product/SAM9X75): Released to Production (RTP)
   * [SAM9X75 High Density BGA](https://www.microchip.com/en-us/product/SAM9X75): Released to Production (RTP)
