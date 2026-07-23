@@ -11,5 +11,5 @@ For further information regarding the SAM9X75 SoC/SiP, please visit the correspo
   * [SAM9X75D1G](https://www.microchip.com/en-us/product/SAM9X75D1G): Released to Production (RTP)
   * [SAM9X75D2G](https://www.microchip.com/en-us/product/SAM9X75D2G): Released to Production (RTP)
  
-## SAM9X75 SiP 1Gb/2Gb Extended Temperature / Auto support Specific Collaterals
+## SAM9X75 SiP 1Gb/2Gb Extended Temperature / Auto Specific Collaterals
   * Coming soon
