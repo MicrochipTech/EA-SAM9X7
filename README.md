@@ -1,7 +1,11 @@
 # SAM9X7 SoC and SiP Series
 ## Early Access Repository
-The Early Access phase has now concluded.
 
+* SAM9X75 SiP 1Gb/2Gb Extended Temperature / Auto Specific Collaterals
+  * [Data Sheet](Documentation/)
+  * [Errata sheet](Documentation/)
+  * [DFP - Header Files](Software/)
+  
 For further information regarding the SAM9X75 SoC/SiP, please visit the corresponding product pages on Microchip.com:
 * SoC
   * [SAM9X75](https://www.microchip.com/en-us/product/SAM9X75): Released to Production (RTP)
