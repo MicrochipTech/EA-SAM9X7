@@ -1,4 +1,4 @@
-# SAM9X7 SoC and SiP Series Early Access Repository
+# SAM9X7 SoC & SiP Series Early Access (EA) Repository
 ## SAM9X75 SiP 1Gb/2Gb Extended Temperature / Auto Specific Collaterals
   * [Data Sheet](Documentation/)
   * [Errata sheet](Documentation/)
